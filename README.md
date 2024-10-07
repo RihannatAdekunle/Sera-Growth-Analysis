@@ -37,7 +37,6 @@ Several analytical queries were designed to answer business-critical questions:
 - Subscriber activity and retention by tracking active months and user behaviors.
 - Identification of users with unsuccessful subscription attempts over multiple months.
 
-These analyses provided the foundation for the visual insights presented in the dashboard.
 ![Data Analysis in SQL](https://github.com/RihannatAdekunle/Sera-Growth-Analysis/blob/main/Data_analysis_sera_payments.sql)
 
 ## Data Modeling and Visualization in Power BI
