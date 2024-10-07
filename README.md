@@ -2,7 +2,7 @@
 
 ## Objectives
 
-As a Growth Analyst at Sera, an international SaaS company providing clients with financial information for investments, I was tasked with transforming and analyzing subscription payment data. The primary objective of this project is to help the business gain insights into sales trends, customer retention, and transaction performance. To achieve this, I designed a database transformation process followed by data analysis and visualization in Power BI, creating actionable insights to guide business decisions.
+Sera is an international SaaS company providing clients with financial information for investments, I was tasked with transforming and analyzing subscription payment data. The primary objective of this project is to help the business gain insights into sales trends, customer retention, and transaction performance. To achieve this, I designed a database transformation process followed by data analysis and visualization in Power BI, creating actionable insights to guide business decisions.
 
 This project covers the entire workflow from transforming raw data to visualizing insights through an interactive dashboard.
 
