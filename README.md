@@ -24,6 +24,8 @@ The initial data provided by the sales team was raw and unstructured. I wrote a 
   - Grouping and categorization of card types into broader groups (e.g., Visa, Mastercard).
   - Creating a clear distinction between credit and debit cards.
   - Standardizing the transaction statuses (e.g., success, failed, abandoned).
+  
+![Data Tranformation in SQL](https://github.com/RihannatAdekunle/Sera-Growth-Analysis/blob/main/Data%20Tranformation%20sera.sql)
 
 ## Data Analysis in SQL
 
@@ -36,6 +38,7 @@ Several analytical queries were designed to answer business-critical questions:
 - Identification of users with unsuccessful subscription attempts over multiple months.
 
 These analyses provided the foundation for the visual insights presented in the dashboard.
+![Data Analysis in SQL](https://github.com/RihannatAdekunle/Sera-Growth-Analysis/blob/main/Data_analysis_sera_payments.sql)
 
 ## Data Modeling and Visualization in Power BI
 
@@ -55,6 +58,14 @@ After cleaning and transforming the data, I imported it into Power BI to create 
 - **Transaction Status Breakdown**: A pie chart showing the percentage of successful, failed, and abandoned transactions.
 - **Transactions by Channel**: Displays which payment methods are most frequently used by customers.
 - **Transaction by Country**: A world map view showing transaction distribution by geographic location.
+## Data modelling
+![Data Modelling](https://github.com/RihannatAdekunle/Sera-Growth-Analysis/blob/main/Assets/Data%20modelling.JPG)
+
+## Sales Dashboard
+![Sales Dashboard](https://github.com/RihannatAdekunle/Sera-Growth-Analysis/blob/main/Assets/sera%20sales.JPG)
+
+## Transaction Dashboard
+![Transaction Dashboard](https://github.com/RihannatAdekunle/Sera-Growth-Analysis/blob/main/Assets/sera%20transaction.JPG)
 
 ## Growth Analysis & Recommendations
 
@@ -62,7 +73,6 @@ After cleaning and transforming the data, I imported it into Power BI to create 
 - **Retention Strategies**: The analysis of active subscribers and failed transactions suggests that there is a significant number of users with multiple failed attempts. A targeted re-engagement strategy for these users could help improve retention and boost successful transactions.
 - **Channel Optimization**: The performance of different payment channels highlights opportunities to streamline and promote more efficient channels, particularly where card types like "Visa" and "Mastercard" show strong success rates.
 
-## Conclusion
-
-This project delivered actionable insights into Sera's subscription and transaction data, providing a clear understanding of sales trends, payment behaviors, and customer activity. The dashboard serves as a key tool for the company's management to make informed decisions about growth, retention, and operational improvements.
+## Download
+<a href = "https://github.com/RihannatAdekunle/Sera-Growth-Analysis/raw/refs/heads/main/Assets/sera%20sales.pbix"> Download Power bi
 
