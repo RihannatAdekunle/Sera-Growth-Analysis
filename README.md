@@ -61,7 +61,7 @@ After cleaning and transforming the data, I imported it into Power BI to create 
 ![Data Modelling](https://github.com/RihannatAdekunle/Sera-Growth-Analysis/blob/main/Assets/Data%20modelling.JPG)
 
 ## Sales Dashboard
-![Sales Dashboard](https://github.com/RihannatAdekunle/Sera-Growth-Analysis/blob/main/Assets/sera%20sales.JPG)
+![Sales Dashboard](https://github.com/RihannatAdekunle/Sera-Growth-Analysis/blob/main/Assets/sera%20sale.JPG)
 
 ## Transaction Dashboard
 ![Transaction Dashboard](https://github.com/RihannatAdekunle/Sera-Growth-Analysis/blob/main/Assets/sera%20transaction.JPG)
